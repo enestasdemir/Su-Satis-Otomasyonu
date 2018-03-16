@@ -3,7 +3,7 @@ Su satış otomasyonu programı ile su satışı yapmakta olan iş yerlerinin m�
 
 Program Java programlama dili ile Swing kütüphanesi ve SQLite kullanılarak oluşturuldu.
 
-# Project Display Image
+# Project Screenshots
 <p>
 <a href="https://github.com/enestasdemir/SuSatisOtomasyonu/blob/master/screenshots/1_login.png" target="_blank">
 <img src="https://github.com/enestasdemir/SuSatisOtomasyonu/blob/master/screenshots/1_login.png" width="200" style="max-width:100%;"></a>
@@ -28,5 +28,4 @@ Program Java programlama dili ile Swing kütüphanesi ve SQLite kullanılarak ol
 
 <a href="https://github.com/enestasdemir/SuSatisOtomasyonu/blob/master/screenshots/8_dialogue.png" target="_blank">
 <img src="https://github.com/enestasdemir/SuSatisOtomasyonu/blob/master/screenshots/8_dialogue.png" width="200" style="max-width:100%;"></a>
-
 <p>
